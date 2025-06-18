@@ -11,7 +11,7 @@ e BI na Uninassau.
         <img 
             alt="Linkedin" 
             title="Me siga no linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https:www.linkedin.com/in/caio-renan&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
 
