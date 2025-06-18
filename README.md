@@ -11,7 +11,7 @@ e BI na Uninassau.
         <img 
             alt="Linkedin" 
             title="Me siga no linkedin" 
-            src="label=Linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
 
@@ -19,7 +19,7 @@ e BI na Uninassau.
    <img 
        alt="Total de estrelas" 
        title="Total de estrelas GitHub" 
-       src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+       src="https://custom-icon-badges.demolab.com/github/stars/CaioRenan30?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
    />
 </a>
 <a href="https://github.com/CaioReanan30?tab=followers">
