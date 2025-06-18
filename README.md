@@ -11,8 +11,7 @@ e BI na Uninassau.
         <img 
             alt="Linkedin" 
             title="Me siga no linkedin" 
-            src="https:www.linkedin.com/in/caio-renan&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+            src="https:www.linkedin.com/in/caio-renan&label=Linkedin&logo=file:///C:/Users/Caio%20Renan/Downloads/link-2.svg&logoColor=blue&style=for-the-badge&labelColor=CE4630"
     </a>
 
 <a href="https://github.com/CaioRenan30?tab=repositories&sort=stargazers">
